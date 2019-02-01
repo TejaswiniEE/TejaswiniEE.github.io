@@ -34,8 +34,8 @@ h1
 }
 #main
 {     
-	position:relative;
-	display:outline;
+	position:absolute;
+	display:block;
 	text-align:left;
 	top: 5%;
 	left: 35%;
