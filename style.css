@@ -34,7 +34,7 @@ h1
 }
 #main
 {
-	position:absolute;
+	position:fixed;
 	display:inline;
 	top: 5%;
 	left: 35%;
