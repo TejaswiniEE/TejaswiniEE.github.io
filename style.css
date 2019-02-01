@@ -18,7 +18,7 @@ body
 
  img
 {
-	width:"90%";
+	width:"80%";
 	left: 5%;
 	height:"30%";
 	border-radius: 50px;
@@ -30,9 +30,9 @@ body
 h1
 {
 	color:gray;
-	font-size: 50px;
+	font-size: 35px;
 	position:fixed;
-	left: 5%;
+	left: 3%;
 }
 #main
 {
