@@ -52,6 +52,7 @@ h1
 #name
 {
 	color: red;
+	width:90%;
 	position: fixed;
 	left: 5%;
 	width: 90%;
@@ -61,7 +62,6 @@ h1
 .links
 {
 	text-decoration: none;
-	display: block;
 	font-size: 20px;
 	color: green;
 	
