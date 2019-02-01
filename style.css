@@ -49,7 +49,7 @@ h1
 {
 	color: red;
 	width:90%;
-	position: fixed;
+	position:absolute;
 	left: 5%;
 	width: 90%;
 
