@@ -6,13 +6,13 @@ body
 {
 	width: 25%;
 	height: 90%;
-       top: 5%;
-    position: fixed;
-     border: 2px solid red;
-    border-radius: 5px;
-    border-color: blue;
-    border-style: solid;
-   box-shadow:0 0 10px white;
+        top: 5%;
+        position: fixed;
+        border: 2px solid red;
+        border-radius: 5px;
+        border-color: blue;
+        border-style: solid;
+        box-shadow:0 0 10px pink;
 }
 
  img
@@ -34,7 +34,7 @@ h1
 }
 #main
 {
-	position:absolute;
+	position:fixed;
 	display:inline;
 	top: 5%;
 	left: 35%;
@@ -44,8 +44,6 @@ h1
 	border-width:2px;
 	border-color:blue;
 	box-shaDOW:0 0 10px white;
-
-
 }
 #name
 {
@@ -76,10 +74,7 @@ p
 	display:block;
 	margin:5%;
 	border: 1px solid green;
-	
-
-
-}
+	}
 #skills
 {
 	position:relative;
