@@ -62,6 +62,7 @@ h1
 	text-align: center;
 
 }
+
 .links
 {
 	text-decoration: none;
@@ -75,7 +76,7 @@ p
 {
 font-size: 20px;
 	color: green;
-	text-align: center;
+	
 	margin-bottom: 5%; 	
 }
 #Education
