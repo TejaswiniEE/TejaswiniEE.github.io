@@ -35,7 +35,7 @@ h1
 #main
 {
 	position:fixed;
-	display:inline;
+	display:block;
 	top: 5%;
 	left: 35%;
 	width: 60%;
@@ -43,7 +43,7 @@ h1
 	border-style: solid;
 	border-width:2px;
 	border-color:blue;
-	box-shaDOW:0 0 10px white;
+	box-shadow:0 0 10px white;
 }
 #name
 {
