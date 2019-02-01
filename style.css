@@ -7,8 +7,10 @@ body
 	width: 25%;
 	height: 90%;
        top: 5%;
-    border: 2px;
-    border-radius: 10px;
+    position: fixed;
+ 
+    border: 2px solid red;
+    border-radius: 5px;
     border-color: blue;
     border-style: solid;
    box-shadow:0 0 10px white;
