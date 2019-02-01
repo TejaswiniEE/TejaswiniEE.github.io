@@ -7,7 +7,7 @@ body
 	width: 25%;
 	height: 90%;
     position: fixed;
-    top: 5vh;
+    top: 5%;
     border: 2px;
     border-radius: 10px;
     border-color: blue;
@@ -78,6 +78,14 @@ font-size: 20px;
 	position: relative;
 	margin:5%;
 	border: 1px solid green;
+	
 
 
+}
+#skills
+{
+	position:relative;
+	display:block;
+	margin:5%;
+	border:1px solid green;
 }
