@@ -5,8 +5,8 @@ body
 #personal
 {
 	width: 25%;
-	height: 90%;
-        top: 5%;
+	height: 94%;
+        top: 3%;
         position: fixed;
         border: 2px solid red;
         border-radius: 5px;
@@ -27,7 +27,7 @@ body
 }
 h1
 {
-	color:gray;
+	color:#cc99ff;
 	font-size: 35px;
 	position:fixed;
 	left: 3%;
@@ -74,7 +74,7 @@ p
 	display:block;
 	margin:5%;
 	border: 1px solid green;
-	}
+		}
 #skills
 {
 	position:relative;
