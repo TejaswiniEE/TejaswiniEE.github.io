@@ -6,12 +6,12 @@ body
 {
 	width: 25%;
 	height: 90%;
-    position: fixed;
-    top: 5%;
+       top: 5%;
     border: 2px;
     border-radius: 10px;
     border-color: blue;
     border-style: solid;
+   box-shadow:0 0 10px white;
 }
 
  img
@@ -19,7 +19,7 @@ body
 	width:90%;
 	position:fixed;
 	left: 5%;
-	border-radius: 30px;
+	border-radius: 50px;
 	border-style: solid;
     border-width: 1px;
     margin-left: 5%;
@@ -29,7 +29,7 @@ h1
 {
 	color: red;
 	font-size: 50px;
-	position:  fixed;
+	position:fixed;
 	left: 5%;
 }
 #main
@@ -43,7 +43,7 @@ h1
 	border-style: solid;
 	border-width:2px;
 	border-color:blue;
-	box-shaDOW:0 0 10PX;
+	box-shaDOW:0 0 10px white;
 
 
 }
