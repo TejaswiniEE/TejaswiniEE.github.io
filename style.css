@@ -36,7 +36,7 @@ h1
 }
 #main
 {
-	position: absolute;
+	position:relative;
 	display: inline;
 	top: 5%;
 	left: 35%;
