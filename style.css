@@ -36,6 +36,7 @@ h1
 {     
 	position:relative;
 	display:outline;
+	text-align:left;
 	top: 5%;
 	left: 35%;
 	width: 60%;
