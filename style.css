@@ -35,15 +35,16 @@ h1
 #main
 {     
 	position:relative;
-	display:block;
-	top: 3%;
+	display:inline;
+	top: 5%;
 	left: 35%;
 	width: 60%;
-	margin-left: 5%;
 	border-style: solid;
 	border-width:2px;
+	border-radius:10px;
 	border-color:blue;
 	box-shadow:0 0 10px white;
+	margin-left: 5%;
 }
 #name
 {
