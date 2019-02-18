@@ -39,7 +39,7 @@ h1
 {     
 	position:absolute;
 	display:inline;
-	top: 5%;
+	
 	left: 500px;
 	width: 600px;
 	border-style: solid;
@@ -47,6 +47,7 @@ h1
 	border-radius:10px;
 	border-color:blue;
 	box-shadow:0 0 10px white;
+	height:100%;
 }
 #name
 {
